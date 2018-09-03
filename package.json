@@ -6,6 +6,11 @@
     "dependencies": {
     },
 
+    "repository" : {
+        "type":"git",
+        "url":"https://github.com/avkcorporation/node-red-contrib-ua-avk-sha1"
+    },
+
     "main": "ua-avk-sha1.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
