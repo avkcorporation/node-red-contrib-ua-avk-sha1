@@ -4,6 +4,7 @@
     "description": "Get hash by sha1",
 
     "dependencies": {
+        "crypto": "^1.0.1"
     },
 
     "repository" : {
