@@ -9,7 +9,7 @@
 
     "repository" : {
         "type":"git",
-        "url":"https://github.com/avkcorporation/node-red-contrib-ua-avk-sha1"
+        "url":"https://github.com/avkcorporation/node-red-contrib-ua-avk-sha1.git"
     },
 
     "main": "ua-avk-sha1.js",
